@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: New
 featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: We'd love to hear from you
@@ -9,7 +9,4 @@ menu:
 
 ---
 
-
-This is my new page content.
-
-{{< form-contact action="https://example.com"  >}}
+Test new content.
