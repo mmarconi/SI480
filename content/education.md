@@ -13,15 +13,19 @@ menu:
 
 - Intended graduation is Spring of 2021
 
-- Coursework:							
+- Coursework:
+					
 	Computer Science
+	
 	- Data Abstraction					
 	- Database Systems					
 	- Programming Languages			
 	- Software Engineering				
 	- Software Innovation
 	
+	
 	Business
+	
 	- Microeconomic Theory
 	- Macroeconomic Theory
 	- Money/Financial Institutions
