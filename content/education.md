@@ -14,9 +14,15 @@ menu:
 - Intended graduation is Spring of 2021
 
 - Coursework:							
-	Computer Science					Business
-	- Data Abstraction					- Microeconomic Theory
-	- Database Systems					- Macroeconomic Theory
-	- Programming Languages			- Money/Financial Institutions
-	- Software Engineering				- Business & Managerial Economics
+	Computer Science
+	- Data Abstraction					
+	- Database Systems					
+	- Programming Languages			
+	- Software Engineering				
 	- Software Innovation
+	
+	Business
+	- Microeconomic Theory
+	- Macroeconomic Theory
+	- Money/Financial Institutions
+	- Business & Managerial Economics
