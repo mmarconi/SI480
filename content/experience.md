@@ -2,7 +2,7 @@
 title: Experience
 featured_image: "images/notebook.jpg"
 omit_header_text: true
-description: We'd love to hear from you
+description: work experience
 type: page
 menu:
   main: {}
