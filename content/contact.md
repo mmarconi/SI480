@@ -10,8 +10,9 @@ menu:
 ---
 
 Phone: (814) 335-2263
-Email: mmarconi201@gmail.com
-Github: https://github.com/mmarconi
-LinkedIn: https://www.linkedin.com/in/matthew-marconi-99268b159/
 
-{{< form-contact action="https://example.com"  >}}
+Email: mmarconi201@gmail.com
+
+Github: https://github.com/mmarconi
+
+LinkedIn: https://www.linkedin.com/in/matthew-marconi-99268b159/
