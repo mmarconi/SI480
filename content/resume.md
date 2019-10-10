@@ -1,6 +1,6 @@
 ---
 title: Resume
-featured_image: "images/resume.jpg"
+featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: resume
 type: page
@@ -9,6 +9,4 @@ menu:
 
 ---
 
-Resume
-
-"static/images/resume.jpg"
+[Download Resume](matthewmarconi/ComputerScience/CompSci480/Assignments/SI480/static/images/resume.pdf)
