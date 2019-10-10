@@ -28,6 +28,7 @@ Technology Instructor | Lavner Camps – Narberth, Pa | June 2019 – August 201
 
 
 Engineering Intern | Metal Powder Products (MPP) – St. Marys, Pa | May 2018 – August 2018
+
 	- Performed multiple capability analysis studies to determine the most efficient processes of manufacturing parts to proper specifications.
 	- Ran tests involving different packaging and shipping techniques to prevent wear on products.
 	- Worked with coordinate measuring machines (CMM) to ensure parts were being manufactured to proper specifications and developed solutions if parts did not fit specifications.
@@ -36,6 +37,7 @@ Engineering Intern | Metal Powder Products (MPP) – St. Marys, Pa | May 2018 �
 
 
 Park Counselor | City of St. Marys Parks and Recreation – St. Marys, Pa | May 2017 – August 2017
+
 	- Lead organization of youth and senior citizen community events. 
 	- Supervised youth basketball league grades 4 through 6.
 	- Assisted with managing the park’s social media platforms.
