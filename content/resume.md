@@ -11,4 +11,4 @@ menu:
 
 Resume
 
-\includepdf(resume)
+"images/resume.jpg"
