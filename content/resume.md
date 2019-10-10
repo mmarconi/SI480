@@ -11,4 +11,4 @@ menu:
 
 Resume
 
-"images/resume.jpg"
+"static/images/resume.jpg"
