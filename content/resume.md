@@ -9,5 +9,5 @@ menu:
 
 ---
 
-![Resume](matthewmarconi/ComputerScience/CompSci480/Assignments/SI480/static/images/resume1.jpg)
-[Download Resume](matthewmarconi/ComputerScience/CompSci480/Assignments/SI480/static/images/resume.pdf)
+![Resume](SI480/static/resume/rMatthew Marconi Resume.pdf)
+[Download Resume](resume/Matthew Marconi Resume.pdf)
