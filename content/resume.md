@@ -9,6 +9,6 @@ menu:
 
 ---
 
-![Resume](SI480/static/resume/Matthew Marconi Resume.pdf)
+![Resume](static/resume/resume1.jpg)
 [Download Resume](/pdfs/Matthew Marconi Resume.pdf)
 <a href="Matthew Marconi Resume.pdf"></a>
