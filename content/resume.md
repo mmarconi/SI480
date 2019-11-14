@@ -10,4 +10,4 @@ menu:
 ---
 
 ![Resume](SI480/static/resume/rMatthew Marconi Resume.pdf)
-[Download Resume](resume/Matthew Marconi Resume.pdf)
+[Download Resume](pdfs/Matthew Marconi Resume.pdf)
