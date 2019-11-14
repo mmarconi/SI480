@@ -13,6 +13,8 @@ menu:
 
 - Intended graduation is Spring of 2021
 
+- Alden Scholar (Dean's List)
+
 - Coursework:
 					
 	Computer Science
