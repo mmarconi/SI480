@@ -9,7 +9,6 @@ menu:
 
 ---
 
-Projects
 
 - Created a statistics calculator with multiple applications specific to the sport of baseball.
 - Worked with a team of two others to create a Java program that performs a doubling experiment on an implementation of the insertion-sort algorithm and an implementation of the merge-sort algorithm in order to determine the execution time of a given input size.
