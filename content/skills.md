@@ -22,3 +22,5 @@ Computer Skills
 - Minitab
 - Cassandra
 - Docker
+- HTML
+- C++
