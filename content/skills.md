@@ -12,15 +12,20 @@ menu:
 Computer Skills
 
 - Java
+- JavaScript
 - Python
 - SQL
+- SQL Server Management Studio
 - Django
 - MongoDB
 - AutoCAD
 - Solid Edge
 - Microsoft Office
+- Microsoft Power BI
+- Microsoft Visual Studio
 - Minitab
 - Cassandra
 - Docker
 - HTML
 - C++
+- C

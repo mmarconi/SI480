@@ -13,7 +13,7 @@ menu:
 
 - Intended graduation is Spring of 2021
 
-- Alden Scholar (Dean's List)
+- Distinguished Alden Scholar (Dean's List)
 
 - Coursework:
 					
@@ -32,3 +32,4 @@ menu:
 	- Macroeconomic Theory
 	- Money/Financial Institutions
 	- Business & Managerial Economics
+	- Advanced Marketing

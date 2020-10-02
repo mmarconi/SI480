@@ -9,6 +9,15 @@ menu:
 
 ---
 
+Data Analyst | ServiceLink – Coraopolis, Pa | June 2020 – Present
+
+- Worked on the ServiceLink Business Intelligence team, directly under BI Director.
+- Wrote queries in SQL Server Management Studio to manipulate company databases.
+- Designed multiple usage reports and dashboards in Microsoft Power BI.
+- Performed daily tasks as requested by other ServiceLink employees through company ticketing system.
+
+
+
 Resident Advisor | Allegheny College Residential Life – Meadville, Pa | August 2018 – Present
 
 - Participated in a two-week training program to better develop skills in problem solving, mediating, and building an inclusive environment.
